@@ -1,6 +1,6 @@
 streamlit==1.26.0
 pandas==2.0.3
-matplotlib.pyplot==3.3.4
+matplotlib==3.3.4
 geopandas==0.13.2
 seaborn==0.11.1
-scipy.stats==1.6.2
+scipy==1.6.2
